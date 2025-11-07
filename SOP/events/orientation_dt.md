@@ -4,7 +4,7 @@
 
 We kickstarted our **DevTrack Orientation** by welcoming our enthusiastic **DT newbies** into the DevTrack family! 🎉  
 
-The session began with inspiring addresses by **Gowtham** and **Rayan**, who shared their valuable knowledge and experiences to motivate the juniors.  
+The session began with inspiring addresses by **Gowtham** , the founder of Dev/Track and **Rayan**, who shared their valuable knowledge and experiences to motivate the juniors.  
 
 Our amazing host **Saranya M** kept the energy high throughout the event, while **Jeevitha R** provided insightful guidance on the **Project Cycle** — explaining how it works and how members can actively participate.  
 
@@ -54,3 +54,8 @@ The **top 3 teams** from each game received **cool giveaways** 🏆.
 ---
 
 ✨ The orientation was a perfect blend of learning, laughter, and teamwork — setting the tone for an amazing year ahead with **DevTrack!**
+
+📍 **Venue:** Aryabhata Seminar Hall, CVRB  
+🕒 **Time:** 12:30 PM – 3:30 PM  
+📅 **Date:** November 06, 2025  
+👥 **Type:** Offline Meet  
