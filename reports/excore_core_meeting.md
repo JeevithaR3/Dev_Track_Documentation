@@ -52,8 +52,3 @@ It strengthened the bond between the old and new teams and laid a foundation for
 > “It wasn’t just a meeting — it was a passing of the torch.” 🔥  
 
 ---
-
-📍 **Venue:** Room No. 303, SVB  
-🕒 **Time:** 2:20 PM – 4:30 PM  
-📅 **Date:** October 30, 2025  
-👥 **Type:** Offline Meet  
