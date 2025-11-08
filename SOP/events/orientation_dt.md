@@ -69,7 +69,6 @@ The **top three teams** from each game were recognized and awarded **giveaways**
 ## Conclusion  
 
 The **DevTrack Orientation 2025** was a successful and well-coordinated event that effectively introduced new members to the club’s mission, structure, and culture.  
-It provided valuable insights through leadership talks, engaging mentorship introductions, and interactive activities.  
 
 The session not only inspired participants to contribute actively but also strengthened the sense of community within DevTrack, paving the way for an innovative and collaborative year ahead.  
 

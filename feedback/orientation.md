@@ -129,8 +129,10 @@ A total of **18 responses** were collected from students across different depart
 
 ## Conclusion  
 
-The **DevTrack Orientation 2025** was highly successful, offering an engaging and well-balanced experience that combined learning, interaction, and entertainment.  
+The **DevTrack Orientation 2025** was highly successful, offering an engaging and well-balanced experience that combined learning, interaction, and entertainment. 
+
 Participants particularly enjoyed the interactive games, especially Bingo, and praised the effectiveness of the sessions.  
+
 The overwhelmingly positive feedback and high participation intent indicate strong enthusiasm for upcoming **DevTrack initiatives**.
 
 ---
