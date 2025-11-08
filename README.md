@@ -18,7 +18,7 @@ Projects are evaluated based on:
 - **Technical Implementation**  
 - **Teamwork & Presentation**  
 
-🏆 The best projects are recognized with awards and showcased to the community.  
+The best projects are recognized with awards and showcased to the community.  
 
 **What you gain:**  
 - Real-world project experience  
@@ -29,9 +29,9 @@ Projects are evaluated based on:
 
 ## **Events & Activities**  
 We conduct engaging events throughout the year, including:  
-- 💻 **Workshops** on latest technologies  
-- ⚡ **Hackathons & Challenges**  
-- 🎙️ **Tech Talks & Guest Sessions**  
+- **Workshops** on latest technologies  
+- **Hackathons & Challenges**  
+- **Tech Talks & Guest Sessions**  
 
 These activities encourage innovation, collaboration, and continuous learning.  
 
@@ -45,7 +45,7 @@ These activities encourage innovation, collaboration, and continuous learning.
 ---
 
 ## **Connect With Us**  
-📸 **Instagram:** [@devtrack_official](https://www.instagram.com/dev.track?igsh=MXhmYzF0dTRvOTFkNQ%3D%3D&utm_source=qr)  
+**Instagram:** [@devtrack_official](https://www.instagram.com/dev.track?igsh=MXhmYzF0dTRvOTFkNQ%3D%3D&utm_source=qr)  
 <!-- 💼 **LinkedIn:** [DevTrack](https://www.linkedin.com/company/devtrack-official)   -->
 
 ---
