@@ -4,7 +4,7 @@
 ---
 
 ## Event Overview  
-The **DevTrack Orientation** was conducted on **November 6, 2025**, from **2:20 PM to 4:30 PM** in **Room 303, SVB**.  
+The **DevTrack Orientation** was conducted on **November 6, 2025**, from **2:20 PM to 4:30 PM** in **Arybhabhatta Seminar Hall, CVRB**.  
 A total of **18 responses** were collected from students across different departments and academic years.
 
 ---
