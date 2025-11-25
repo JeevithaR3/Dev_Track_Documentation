@@ -1,7 +1,7 @@
 # DevBlitz – Tech Talk Feedback Report  
 **Date:** November 21, 2025  
 **Time:** 1:30 PM – 4:15 PM  
-**Venue:** Kuvempu Auditorium, SVB  
+**Venue:** Kuvempu Auditorium, CVRB  
 
 ---
 
@@ -40,7 +40,7 @@ A total of **33 responses** were collected.
 |:----------------|:------:|
 | Quiz | 10 |
 | Entertainment | 8 |
-| Speeches (Deepak Chawla, Speakers) | 8 |
+| Speaker Session(Deepak Chawla, Speaker) | 8 |
 | Everything / Entire Program | 3 |
 | Games (General) | 2 |
 | Interaction / Addressing | 2 |
@@ -149,7 +149,7 @@ A total of **33 responses** were collected.
 Top repeated responses:
 
 - **Good**
-- **Amazing / Amazing 🤩 / AMAZINGG**
+- **Amazing / Amazing / AMAZINGG**
 - **Super**
 - **Surprised**
 - **Wow**
