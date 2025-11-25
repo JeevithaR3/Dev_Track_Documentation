@@ -137,7 +137,7 @@ A total of **33 responses** were collected.
 |:------------------|:------:|:----------|
 | More Interaction / More Games | 6 | “More engaging parts”, “More interactive events” |
 | Better Speakers / More Speakers | 3 | “Bring even better speakers” |
-| Bigger Venue / More Space | 2 | “Let us sit wherever we want”, “Spacious room” |
+| Seating | 2 | “Let us sit wherever we want” |
 | More Entertainment | 2 | “Add more fun activities”, “Entertainment needed” |
 | Start Early / Longer Session | 2 | “Start early”, “Keep the session longer” |
 | None / Everything Was Good | 18 | “Nothing”, “Perfect”, “Good”, “Nil” |
